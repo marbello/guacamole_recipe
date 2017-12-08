@@ -1,4 +1,5 @@
-avocado
-onion
-salt
-lemon
+# Ingredients for guacamole recipe
+* avocado
+* onion
+* salt
+* lemon
