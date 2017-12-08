@@ -1,3 +1,3 @@
 # guacamole recipe
-- list of ingredients
-- instructions for preparing guacamole
+- [list of ingredients](ingredients.md)
+- [instructions for preparing guacamole](instructions.md)
