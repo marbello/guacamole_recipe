@@ -1,3 +1,3 @@
 # guacamole recipe
-- [list of ingredients](ingredients.txt)
-- [instructions for preparing guacamole](instructions.txt)
+- [list of ingredients](ingredients.md)
+- [instructions for preparing guacamole](instructions.md)
